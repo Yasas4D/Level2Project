@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         ],
       ),
       drawer: Drawer(),
-      body: Center(child: Text("Load instrument card when fetched")),
+      body: Center(child: Text("Load instrument card when data fetched")),
     );
   }
 }
